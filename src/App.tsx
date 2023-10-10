@@ -15,6 +15,18 @@ function App() {
     { src: 'https://placehold.co/600x200' },
     { src: 'https://placehold.co/600x300' },
     { src: 'https://placehold.co/600x400' },
+    { src: 'https://placehold.co/600x300' },
+    { src: 'https://placehold.co/600x200' },
+    { src: 'https://placehold.co/600x100' },
+    { src: 'https://placehold.co/600x400' },
+    { src: 'https://placehold.co/600x600' },
+    { src: 'https://placehold.co/600x500' },
+    { src: 'https://placehold.co/600x400' },
+    { src: 'https://placehold.co/600x200' },
+    { src: 'https://placehold.co/600x300' },
+    { src: 'https://placehold.co/600x200' },
+    { src: 'https://placehold.co/600x300' },
+    { src: 'https://placehold.co/600x400' },
   ];
 
   return (
